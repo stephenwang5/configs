@@ -1,0 +1,39 @@
+{
+    "workbench.preferredLightColorTheme": "Default Light Modern",
+    "workbench.preferredDarkColorTheme": "Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrap": "on",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "extensions.ignoreRecommendations": true,
+    "editor.tabSize": 2,
+    "editor.acceptSuggestionOnEnter": "off",
+    "go.toolsManagement.autoUpdate": true,
+    "svelte.enable-ts-plugin": true,
+    "git.untrackedChanges": "separate",
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "cmake.configureOnOpen": false,
+    "files.autoSave": "onFocusChange",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false
+    },
+    "window.zoomLevel": -0.2,
+    "liveshare.notebooks.allowGuestExecuteCells": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "github.copilot.terminal.suggestCommand"
+    ],
+    "github.copilot.editor.enableAutoCompletions": true,
+    "editor.formatOnType": true,
+    "terminal.integrated.macOptionIsMeta": true,
+}

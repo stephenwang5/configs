@@ -1,0 +1,7 @@
+[
+  {
+    "key": "ctrl+[",
+    "command": "notebook.cell.quitEdit",
+    "when": "inputFocus && notebookEditorFocused && vim.active && !editorHasSelection && !editorHoverVisible && vim.mode == 'Normal'"
+  }
+]
